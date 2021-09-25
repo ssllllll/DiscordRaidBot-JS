@@ -197,4 +197,4 @@ client.on("message", message => {
   }
 });
  
-client.login("TOKEN BOT");
+client.login(" TOKEN BOT ");
