@@ -15,7 +15,7 @@ client.on("ready", () => {
   .deleterole
   .nick (name)
   .list`);
-  presencia();
+  presence();
 });
  
 function presence() {
