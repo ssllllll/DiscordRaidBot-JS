@@ -1,4 +1,4 @@
-# DiscordRaidBot (SSLManager)
+# DiscordRaidBot (ChubbaGang Raid Bot)
 
 Cool bot made in JavaScript for nuking servers, has a lot of commands that u can check in the code
 
